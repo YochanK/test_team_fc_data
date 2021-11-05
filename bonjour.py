@@ -6,4 +6,7 @@ print("je suis sur la branch premier_branch")
 print("lalalalla")
 print('rayayayyyy')
 
-df = pd.DataFrame(data=[1, 2], columns=['A', 'B'])
+dictio1 = {'A':1, 'B':2}
+df=pd.DataFrame(data=dictio1)
+
+
