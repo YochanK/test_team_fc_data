@@ -18,3 +18,10 @@ import matplotlib.pyplot as plt
 print("c'est emma")
 print("go faire de l'argent même si la famille c'est cool aussi")
 
+df_descript = df.describe()
+print(df_descript)
+
+dictio2 = {'C':2, 'D':5}
+df2 = pd.DataFrame(data=dictio2)
+
+
