@@ -11,3 +11,5 @@ df=pd.DataFrame(data=dictio1)
 
 print("c'est emma")
 
+df_descript = df.describe()
+
