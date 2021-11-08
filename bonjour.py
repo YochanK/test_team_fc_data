@@ -14,5 +14,6 @@ print("c'est emma")
 df_descript = df.describe()
 
 dictio2 = {'C':2, 'D':5}
+df2 = pd.DataFrame(data=dictio2)
 
 
