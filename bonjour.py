@@ -13,4 +13,6 @@ df=pd.DataFrame(data=dictio1)
 print('youhouuuu c ki le boss, c oim, bisous')
 import matplotlib.pyplot as plt
 print("c'est emma")
+print("go faire de l'argent même si la famille c'est cool aussi")
+
 
