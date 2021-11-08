@@ -18,6 +18,7 @@ import matplotlib.pyplot as plt
 print("c'est emma")
 print("pingouin dans les champs, hiver méchant")
 print("go faire de l'argent même si la famille c'est cool aussi")
+print('juste un print en plus')
 df_descript = df.describe()
 print(df_descript)
 dictio2 = {'C':2, 'D':5}
